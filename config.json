@@ -1,1 +1,26 @@
-
+{
+    "app_name": "AI Story Creator Pro",
+    "version": "1.0.0",
+    "lm_studio_url": "http://localhost:1234/v1",
+    "sd_api_url": "http://localhost:7860",
+    "themes": {
+        "light": "#FFFFFF",
+        "dark": "#1E1E1E",
+        "primary": "#6366F1",
+        "secondary": "#8B5CF6"
+    },
+    "translation_styles": [
+        "hiện đại",
+        "cổ đại",
+        "văn học",
+        "giản dị",
+        "trẻ trung"
+    ],
+    "platforms": [
+        "bilibili.com",
+        "v.qq.com",
+        "youku.com",
+        "iqiyi.com",
+        "douyin.com"
+    ]
+}
